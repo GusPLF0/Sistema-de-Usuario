@@ -4,6 +4,10 @@ body {
     background-color: #222d32 !important;
 }
 
+h1,h2 {
+    color: #0db8de;
+}
+
 
 .global-container {
 
